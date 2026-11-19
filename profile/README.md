@@ -20,8 +20,8 @@ I build these apps for myself first. If they help someone else along the way, ev
 - **No telemetry**
 - **Actively maintained** — I’m the first user of my own projects
 
-## Website
-🌐 [homelab-901.fr](https://www.homelab-901.fr)
+## 🌐 Website -  [homelab-901.fr](https://www.homelab-901.fr)
+
 ![Screenshot of homelab-901.fr](https://raw.githubusercontent.com/Aervorn/.github/master/profile/assets/homelab-901-site.png)
 
 On my website, I showcase my projects and share tools I use and enjoy (some I wish I’d discovered much sooner 😄). I also hope to publish a few useful articles when time allows.
