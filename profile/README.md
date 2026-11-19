@@ -22,7 +22,7 @@ I build these apps for myself first. If they help someone else along the way, ev
 
 ## Website
 
-![Screenshot of homelab-901.fr](./assets/homelab-901-site.png)
+![Screenshot of homelab-901.fr](https://raw.githubusercontent.com/Aervorn/.github/master/profile/assets/homelab-901-site.png)
 
 On my website, I showcase my projects and share tools I use and enjoy (some I wish I’d discovered much sooner 😄). I also hope to publish a few useful articles when time allows.
 
