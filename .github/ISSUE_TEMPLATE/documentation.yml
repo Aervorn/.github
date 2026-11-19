@@ -1,0 +1,44 @@
+name: Documentation
+description: Report a documentation issue or suggest an improvement.
+title: "[Docs]: "
+labels:
+  - documentation
+body:
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: What would you like to report?
+      options:
+        - Incorrect information
+        - Missing information
+        - Unclear instructions
+        - Typo or formatting issue
+        - Documentation improvement
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Page or file
+      description: Link to the page or name the file where the issue appears.
+      placeholder: https://... or path/to/file
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: What's wrong or missing?
+      description: Describe the issue and, if possible, the correction you'd suggest.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add any examples or supporting context.
+    validations:
+      required: false
